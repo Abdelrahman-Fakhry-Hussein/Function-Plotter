@@ -8,7 +8,7 @@ The Function Plotter is a Python application designed to allow users to enter a 
 
 ![image](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/3f86da91-2f9f-48d4-92e2-2f44703f4c85)
 
-<img src="[drawing.jpg](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/3f86da91-2f9f-48d4-92e2-2f44703f4c85)" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/3f86da91-2f9f-48d4-92e2-2f44703f4c85.jpg" alt="drawing" style="width:200px;"/>
 
 
 ![image](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/aacf20b9-bfd6-4a98-926f-b34e087342da)
