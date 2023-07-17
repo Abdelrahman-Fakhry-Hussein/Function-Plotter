@@ -4,8 +4,8 @@ The Function Plotter is a Python application designed to allow users to enter a 
 <br><br>
 
 # Snapshots
-<br><br>
-
+<br>
+<img src=(https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/3f86da91-2f9f-48d4-92e2-2f44703f4c85) alt="description of the image" width="500">
 ![image](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/3f86da91-2f9f-48d4-92e2-2f44703f4c85){
   width:  200px;
   display: block;
