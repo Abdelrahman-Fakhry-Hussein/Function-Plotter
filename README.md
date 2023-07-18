@@ -1,4 +1,4 @@
-![image](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/15c899fc-688e-4280-aae5-1f68ff24dd8e)# Function-Plotter
+# Function-Plotter
 The Function Plotter is a Python application designed to allow users to enter a mathematical function and view its graph in real-time. The application is implemented using several libraries and packages, including numpy, matplotlib, sympy, pytest, and PySide2. The main goal of the application is to provide a simple and easy-to-use tool for visualizing mathematical functions and their properties.
 
 <br><br>
