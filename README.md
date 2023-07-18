@@ -15,7 +15,7 @@ The Function Plotter is a Python application designed to allow users to enter a 
 
 <br><br>
 
-# Snapshots Of Running Tests
+# Snapshots Of Running Test Cases
 <br>
 
 ![image](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/a5e499f8-7a56-46cf-b366-60f18af43bed)
