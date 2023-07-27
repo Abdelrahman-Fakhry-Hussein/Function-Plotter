@@ -12,12 +12,3 @@ The Function Plotter is a Python application designed to allow users to enter a 
 <img src="https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/eeead2c3-379f-410a-9941-497d188ed65d.jpg" alt="drawing" style="width:500px;height:650px;"/>
 <img src="https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/a76126bf-2863-4c1d-9ca4-af03f5b0e19a.jpg" alt="drawing" style="width:500px;height:650px;"/>
 <img src="https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/cf7fb530-eb33-45e0-8a85-69894603acd5.jpg" alt="drawing" style="width:500px;height:650px;"/>
-
-<br><br>
-
-# Snapshots Of Running Test Cases
-<br>
-
-![image](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/a5e499f8-7a56-46cf-b366-60f18af43bed)
-![image](https://github.com/Abdelrahman-Fakhry-Hussein/Function-Plotter/assets/86444013/726e8748-82a7-4eef-9dd5-641b2b3fd530)
-
